@@ -1,12 +1,12 @@
 Description
 ===========
 
+Installs Bigv client
+
+http://www.bigv.io/download
+
 Requirements
 ============
 
-Attributes
-==========
-
-Usage
-=====
+Debian or Ubuntu
 
